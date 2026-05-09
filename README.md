@@ -57,7 +57,7 @@ Total Records: 7043 customers
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](images/Dashboard_image.png)
 
 ---
 
